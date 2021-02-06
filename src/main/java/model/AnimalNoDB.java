@@ -1,6 +1,7 @@
 package model;
 
 public class AnimalNoDB {
+
     private String type;
     private String sound;
 
@@ -29,8 +30,5 @@ public class AnimalNoDB {
     public String toString() {
         return "AnimalNoDB{" + "type=" + type + ", sound=" + sound + '}';
     }
-    
-    
-    
-    
+
 }
